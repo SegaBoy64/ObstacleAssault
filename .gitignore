@@ -77,3 +77,6 @@ DerivedDataCache/*
 Content/LearningKit_Games/*
 Content/LearningKit_Robots/*
 Content/Hour_of_Code/*
+
+.vscode/*
+ObstacleAssault.code-workspace
