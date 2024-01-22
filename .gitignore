@@ -80,3 +80,4 @@ Content/Hour_of_Code/*
 
 .vscode/*
 ObstacleAssault.code-workspace
+.vscode/compileCommands_*
